@@ -1,4 +1,5 @@
-<h2 align="left">Hi 👋! My name is Vivek Sankath and I'm a Cyber Security Analyst , from India </h2>
+<h2 align="left">Hi 👋! I'm Vivek Sankath, a Cyber Security Analyst from India.</h2>
+
 
 ---
 
