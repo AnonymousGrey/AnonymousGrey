@@ -1,5 +1,25 @@
 <h2 align="left">Hi 👋! I'm Vivek Sankath, a Cyber Security Analyst from India.</h2>
 
+<p align="left">
+  🔐 Passionate about Cyber Security, Ethical Hacking & Secure Development <br>
+  🚀 Building innovative security tools & AI-powered systems <br>
+  🧠 Always learning | Always hacking (ethically 😉)
+</p>
+
+---
+
+## 🌐 🚀 My Portfolio
+
+<p align="center">
+  <a href="https://portfolio-bice-seven-91.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" height="40"/>
+  </a>
+</p>
+
+<p align="center">
+  👉 <b>Check out my complete work, projects, certifications & achievements here:</b><br>
+  🔗 https://portfolio-bice-seven-91.vercel.app
+</p>
 
 ---
 
@@ -44,24 +64,32 @@
 ---
 
 ## 🌐 Connect with Me
+
 <div align="left">
   <a href="https://www.youtube.com/@Anonymous_Grey" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo" />
+    <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&color=FF0000&logoColor=white&style=for-the-badge" height="35" />
   </a>
   <a href="https://www.instagram.com/vivek_lifery/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&color=E4405F&logoColor=white&style=for-the-badge" height="35" />
   </a>
   <a href="https://www.linkedin.com/in/vivek-sankath/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="35" />
   </a>
   <a href="https://discord.com/users/sphinx_911" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&color=7289DA&logoColor=white&style=for-the-badge" height="35" />
   </a>
 </div>
 
 ---
 
-## 🐍 Contribution Graph :
+## 🐍 Contribution Graph
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/AnonymousGrey/AnonymousGrey/output/snake.svg" alt="Snake animation" />
+</p>
+
+---
+
+<p align="center">
+  ⚡ "Security is not a product, it's a mindset."
 </p>
